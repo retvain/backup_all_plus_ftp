@@ -1,0 +1,3 @@
+open ftp://*login*:*password*@10.56.254.42:2121
+put c:\backup\upload\*.* 56RS0028/
+exit
